@@ -1,7 +1,7 @@
-using SampleLibrary;
+
 using Xunit;
 
-namespace tests
+namespace SampleLibrary.Tests
 {
     public class CalculatorTests
     {
