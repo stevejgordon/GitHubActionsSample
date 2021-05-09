@@ -3,6 +3,6 @@ namespace SampleLibrary
 {
     public class Calculator
     {
-        public int Double(int value) => value * 2;
+        public int Double(int value) => value * 10;
     }
 }
