@@ -1,4 +1,3 @@
-
 using Xunit;
 
 namespace SampleLibrary.Tests
